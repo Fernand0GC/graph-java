@@ -1,4 +1,4 @@
-package data.Structure;
+
 public class Stack {
     private int lenght = 10;
 	private int top;
